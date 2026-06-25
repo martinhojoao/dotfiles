@@ -65,7 +65,7 @@ backup_itens=(
 	"/media/joao/Backup/Imagens|/home/joao/Imagens|conteudo"
 	"/media/joao/Backup/Modelos|/home/joao/Modelos|conteudo"
 	"/media/joao/Backup/Concurso|/home/joao/Área de trabalho|pasta"
-	"/home/joao/Área de trabalho/dotfiles/.git-credentials|/home/joao/.git-credentials|arquivo"
+	"/home/joao/Backup/.git-credentials|/home/joao/.git-credentials|arquivo"
 	# "/media/joao/Backup/Saves|/home/joao/.config/StardewValley|pasta"
 )
 
